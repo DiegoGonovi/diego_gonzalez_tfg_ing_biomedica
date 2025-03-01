@@ -1,13 +1,13 @@
 # 📌 Trabajo de Fin de Grado - MODELO DE DETECCIÓN AUTOMÁTICA DE GANGLIOS EN IMÁGENES DE TOMOGRAFÍA COMPUTARIZADA DE PACIENTES CON CÁNCER COLORRECTAL.
 
-Este repositorio contiene el código y los archivos utilizados en mi **TFG de Ingeniería Biomédica**, utilizando redes neuronales convolucionales (YOLOv8) junto con técnicas de geometría clásica para la detección de estructuras volumétricas. Agradecer al Laboratorio de Análisis de Imagen Médica y Biometría la confianza depositada.
+Este repositorio contiene el código y los archivos utilizados en mi **TFG de Ingeniería Biomédica**, utilizando redes neuronales convolucionales (YOLOv8) junto con técnicas de geometría clásica para la detección de estructuras volumétricas. Agradecer al Laboratorio de Análisis de Imagen Médica y Biometría de la Universidad Rey Juan Carlos la confianza depositada.
 
 ## 📂 Estructura del Repositorio
 
 ```
 /
 ├── Notebooks/                    # Jupyter Notebooks que analizan en detalle el proyecto realizado.
-├── VOIS_predcit/                 # Archivos generados con las predicciones de los volúmenes. 
+├── VOIs_predcit/                 # Archivos generados con las predicciones de los volúmenes. 
 ├── Funciones_fusion.py           # Funciones utilizadas en el algoritmo final.
 ├── algoritmo_final.py            # Script principal del algoritmo final implementado.
 ├── algoritmo_final_full_TAC.py   # Versión extendida del algoritmo, adaptada para procesamiento completo.
