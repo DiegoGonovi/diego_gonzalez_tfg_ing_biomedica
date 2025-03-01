@@ -1,6 +1,6 @@
-# 📌 Trabajo de Fin de Grado - MODELO DE DETECCIÓN AUTOMÁTICA DE GANGLIOS EN IMÁGENES DE TOMOGRAFÍA COMPUTARIZADA DE PACIENTES CON CÁNCER COLORRECTAL
+# 📌 Trabajo de Fin de Grado - MODELO DE DETECCIÓN AUTOMÁTICA DE GANGLIOS EN IMÁGENES DE TOMOGRAFÍA COMPUTARIZADA DE PACIENTES CON CÁNCER COLORRECTAL.
 
-Este repositorio contiene el código y los archivos utilizados en mi **TFG** de ingeniería biomédica, utilizando redes neuronales convolucionales (YOLOv8) junto con técnicas de geometría clásica para la detección de estructuras volumétricas. Agradecer al Laboratorio de Análisis de Imagen Médica y Biometría la confianza depositada.
+Este repositorio contiene el código y los archivos utilizados en mi **TFG de Ingeniería Biomédica**, utilizando redes neuronales convolucionales (YOLOv8) junto con técnicas de geometría clásica para la detección de estructuras volumétricas. Agradecer al Laboratorio de Análisis de Imagen Médica y Biometría la confianza depositada.
 
 ## 📂 Estructura del Repositorio
 
