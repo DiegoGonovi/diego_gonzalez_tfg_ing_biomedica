@@ -14,7 +14,7 @@ Este repositorio contiene el código y los archivos utilizados en mi **TFG de In
 ├── README.md                     # Presentación del repositorio.
 ```
 
-## 🔗 Descarga de Pesos del Modelo
+## 🔗 Descarga de Pesos de los Modelos
 Los pesos de los modelos de los tres planos anatómiccos entrenados están disponibles en la sección **Releases** del repositorio. Puedes descargarlos desde el siguiente enlace:
 
 👉 [Pesos del Modelo - GitHub Releases](https://github.com/DiegoGonovi/diego_gonzalez_tfg_ing_biomedica/releases/latest)
