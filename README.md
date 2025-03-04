@@ -10,7 +10,7 @@ Este repositorio contiene el código y los archivos utilizados en mi **TFG de In
 ├── VOIs_predcit/                 # Archivos generados con las predicciones de los volúmenes. 
 ├── Funciones_fusion.py           # Funciones utilizadas en el algoritmo final.
 ├── algoritmo_final.py            # Script del algoritmo final implementado.
-├── algoritmo_final_full_TAC.py   # Versión extendida del algoritmo, adaptada para procesamiento completo.
+├── algoritmo_final_full_TC.py   # Versión extendida del algoritmo, adaptada para procesamiento completo.
 ├── README.md                     # Presentación del repositorio.
 ```
 
